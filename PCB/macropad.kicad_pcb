@@ -4567,8 +4567,8 @@
 		(uuid "de0a6d8c-aeca-4b44-829b-a39486908645")
 	)
 	(gr_rect
-		(start 94 59.589)
-		(end 159 141.589)
+		(start 94.01 59.589)
+		(end 159.01 141.589)
 		(stroke
 			(width 0.05)
 			(type solid)
