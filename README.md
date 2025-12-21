@@ -14,6 +14,10 @@ A macropad made by me for personal use
 
 My keyboard doesn't have a numpad and I needed more keys for 3D modelling, programming and designing.
 
+### Features
+
+The macropad features 9 programmable keys and a programmable 128x32 OLED display. It runs on the Seeed Studio XIAO RP2040 microcontroller.
+
 ### Challenges
 
 For this project I needed to learn KiCad and PCB design, as well as get better at python.
