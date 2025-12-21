@@ -8,6 +8,10 @@ A macropad made by me for personal use
 
 ![render3](/Extras/render3.png)
 
+| Case                      | Case - Assembled |
+| ------------------------- | ---------------- |
+| ![case](/Extras/case.png) |                  |
+
 | Schematic                           | PCB                     | PCB - 3D Render               |
 | ----------------------------------- | ----------------------- | ----------------------------- |
 | ![schematic](/Extras/schematic.png) | ![pcb](/Extras/pcb.png) | ![pcb_3d](/Extras/pcb_3d.png) |
