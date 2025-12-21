@@ -8,9 +8,9 @@ A macropad made by me for personal use
 
 ![render3](/Extras/render3.png)
 
-| Case                      | Case - Assembled |
-| ------------------------- | ---------------- |
-| ![case](/Extras/case.png) |                  |
+| Case                      | Case - Assembled                              |
+| ------------------------- | --------------------------------------------- |
+| ![case](/Extras/case.png) | ![case-assembled](/Extras/case_assembled.png) |
 
 | Schematic                           | PCB                     | PCB - 3D Render               |
 | ----------------------------------- | ----------------------- | ----------------------------- |
