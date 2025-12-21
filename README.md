@@ -1,2 +1,43 @@
 # Olejnik-Industries-Macropad
+
 A macropad made by me for personal use
+
+![render1](/Extras/render1.png)
+
+![render2](/Extras/render2.png)
+
+![render3](/Extras/render3.png)
+
+
+
+### Why?
+
+My keyboard doesn't have a numpad and I needed more keys for 3D modelling, programming and designing.
+
+### Challenges
+
+For this project I needed to learn KiCad and PCB design, as well as get better at python.
+
+### Specifications
+
+BOM:
+
+- 1x Seeed Studio XIAO RP2040
+
+- 9x Cherry MX Switches
+
+- 9x Blank DSA Keycaps
+
+- 1x SSD1306 0.91" OLED Display
+
+- 4x M3 Heatset Insert
+
+- 4x M3x16 Bolt
+
+Other:
+
+- Custom PCB
+
+- 3D-printed case: [Bottom Case](/CAD/macropad_casebottom), [Top Case](/CAD/macropad_casetop)
+
+- KMK software
