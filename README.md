@@ -8,8 +8,6 @@ A macropad made by me for personal use
 
 ![render3](/Extras/render3.png)
 
-
-
 ### Why?
 
 My keyboard doesn't have a numpad and I needed more keys for 3D modelling, programming and designing.
@@ -17,6 +15,10 @@ My keyboard doesn't have a numpad and I needed more keys for 3D modelling, progr
 ### Features
 
 The macropad features 9 programmable keys and a programmable 128x32 OLED display. It runs on the Seeed Studio XIAO RP2040 microcontroller.
+
+### Firmware
+
+The current firmware in the main.py file makes the thing a simple 1-9 numpad but it is easily changeable to serve desired purposes.
 
 ### Challenges
 
