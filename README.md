@@ -2,6 +2,8 @@
 
 A macropad made by me for personal use
 
+![final](/Extras/final.jpg)
+
 ![render1](/Extras/render1.png)
 
 ![render2](/Extras/render2.png)
