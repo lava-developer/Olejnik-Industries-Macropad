@@ -1,4 +1,4 @@
-# Olejnik-Industries-Macropad
+# Custom-Macropad
 
 A macropad made by me for personal use
 
